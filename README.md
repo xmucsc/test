@@ -1,2 +1,2 @@
 # test
-<img src="./model.png" width=256 height=256 />
+<img src="./model.png" />
