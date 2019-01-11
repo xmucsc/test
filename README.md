@@ -1,2 +1,2 @@
 # test
-<img src="./model.png" style="zoom:20%"/>
+<img src="./model.png" width="200px"/>
