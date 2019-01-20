@@ -4,7 +4,7 @@
 
 Welcome to watch, star or fork.
 
-<center><img src="model.png" width="500px"></center>
+<center><img src="./img/model.png" width="500px"></center>
 
 ## MSRA dataset
 
@@ -38,9 +38,9 @@ We randomly select 3000 samples from the training set as the validation set, and
 
 |  Dataset   | Number |
 | :--------: | :----: |
-|  Training  | 42000  |
-| Validation |  3000  |
-|    Test    |  3442  |
+|  training  | 42000  |
+| validation |  3000  |
+|    test    |  3442  |
 
 ## Requirements
 
@@ -151,11 +151,11 @@ We didn't search best parametres and obtained the following results.
 
 Based on the best performance of the model on the validation set, the overall effect of the model is as follows:
 
-| Dataset | F1_score |
-| :-----: | :------: |
-|  train  |          |
-|   val   |          |
-|  test   |          |
+|  Dataset   | F1_score |
+| :--------: | :------: |
+|  training  |          |
+| validation |          |
+|    test    |          |
 
 ### Detail results on test set
 
@@ -163,9 +163,9 @@ Based on the best model, the effect of the model on each entity category as foll
 
 |              | Precison | Recall | F1_score |
 | :----------: | :------: | :----: | :------: |
-|    Person    |          |        |          |
-| Organization |          |        |          |
-|   Location   |          |        |          |
+|    person    |          |        |          |
+| organization |          |        |          |
+|   location   |          |        |          |
 
 ## References
 
