@@ -41,7 +41,7 @@ We randomly select 3000 samples from the training set as the validation set, and
 |  training  | 42000  |
 | validation |  3000  |
 |    test    |  3442  |
-<div>
+</div>
 ## Requirements
 
 This repo was tested on Python 3.5+ and PyTorch 0.4.1/1.0.0. The requirements are:
