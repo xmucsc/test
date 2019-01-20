@@ -4,7 +4,7 @@
 
 Welcome to watch, star or fork.
 
-<center><img src="model.png" width="500px"/></center>
+<div align=center><img src="model.png" width="500px"></div>
 
 ## MSRA dataset
 
