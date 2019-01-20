@@ -35,13 +35,13 @@ The format is similar to that of the Co-NLL NER task 2002, adapted for Chinese. 
 ### Dataset patition
 
 We randomly select 3000 samples from the training set as the validation set, and the test set is unchanged. Thus, the dataset distribution is as follows.
-
+<div align=center>
 |  Dataset   | Number |
 | :--------: | :----: |
 |  training  | 42000  |
 | validation |  3000  |
 |    test    |  3442  |
-
+<div>
 ## Requirements
 
 This repo was tested on Python 3.5+ and PyTorch 0.4.1/1.0.0. The requirements are:
