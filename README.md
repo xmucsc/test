@@ -48,7 +48,7 @@ cd ./code/demo/
 python extract_demo.py
 ```
 
-### Seven DSNF paradigms
+## Seven DSNF paradigms
 
 ![DSNF](./img/DSNF.png)
 
